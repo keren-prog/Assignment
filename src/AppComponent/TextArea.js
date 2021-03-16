@@ -1,9 +1,10 @@
 function TextArea (){
     return (
         <div>
+           <textarea/>
 
-<textarea/>
         </div>
+       
 
     )
 }
